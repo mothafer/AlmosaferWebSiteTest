@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-20T21:50:43 EET" name="Default suite" finished-at="2024-08-20T21:50:59 EET" duration-ms="15633">
+    <groups>
+    </groups>
+    <test started-at="2024-08-20T21:50:43 EET" name="Default test" finished-at="2024-08-20T21:50:59 EET" duration-ms="15633">
+      <class name="almosaferTestt.mytest">
+        <test-method is-config="true" signature="Mysetup()[pri:0, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:43 EET" name="Mysetup" finished-at="2024-08-20T21:50:51 EET" duration-ms="8187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mysetup -->
+        <test-method signature="DefaultLange()[pri:1, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:52 EET" name="DefaultLange" finished-at="2024-08-20T21:50:52 EET" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultLange -->
+        <test-method signature="CheckdefaultCurrency()[pri:2, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:52 EET" name="CheckdefaultCurrency" finished-at="2024-08-20T21:50:52 EET" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckdefaultCurrency -->
+        <test-method signature="CheckContactNumber()[pri:3, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:52 EET" name="CheckContactNumber" finished-at="2024-08-20T21:50:55 EET" duration-ms="2825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContactNumber -->
+        <test-method signature="CheckQitaflogo()[pri:4, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:55 EET" name="CheckQitaflogo" finished-at="2024-08-20T21:50:55 EET" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckQitaflogo -->
+        <test-method signature="CheckHotelIsNotSelected()[pri:5, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:55 EET" name="CheckHotelIsNotSelected" finished-at="2024-08-20T21:50:55 EET" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHotelIsNotSelected -->
+        <test-method signature="CheckDepatureDate()[pri:6, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:55 EET" name="CheckDepatureDate" finished-at="2024-08-20T21:50:56 EET" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepatureDate -->
+        <test-method signature="Randomlang()[pri:7, instance:almosaferTestt.mytest@4eed46ee]" started-at="2024-08-20T21:50:56 EET" name="Randomlang" finished-at="2024-08-20T21:50:59 EET" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomlang -->
+      </class> <!-- almosaferTestt.mytest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
