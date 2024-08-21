@@ -6,7 +6,7 @@
       <class name="almosaferTestt.mytest">
         <methods>
           <include name="Mysetup"/>
-          <include name="CheckQitaflogo"/>
+          <include name="RandomlyselectTheNumberOfvistor"/>
         </methods>
       </class> <!-- almosaferTestt.mytest -->
     </classes>
