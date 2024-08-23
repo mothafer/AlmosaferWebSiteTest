@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-21T20:21:26 EET" name="Default suite" finished-at="2024-08-21T20:22:28 EET" duration-ms="62620">
+  <suite started-at="2024-08-23T19:26:11 EET" name="Default suite" finished-at="2024-08-23T19:27:15 EET" duration-ms="64439">
     <groups>
     </groups>
-    <test started-at="2024-08-21T20:21:26 EET" name="Default test" finished-at="2024-08-21T20:22:28 EET" duration-ms="62620">
+    <test started-at="2024-08-23T19:26:11 EET" name="Default test" finished-at="2024-08-23T19:27:15 EET" duration-ms="64439">
       <class name="almosaferTestt.mytest">
-        <test-method is-config="true" signature="Mysetup()[pri:0, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:26 EET" name="Mysetup" finished-at="2024-08-21T20:21:34 EET" duration-ms="8368" status="PASS">
+        <test-method is-config="true" signature="Mysetup()[pri:0, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:11 EET" name="Mysetup" finished-at="2024-08-23T19:26:20 EET" duration-ms="9628" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Mysetup -->
-        <test-method signature="DefaultLange()[pri:1, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:34 EET" name="DefaultLange" finished-at="2024-08-21T20:21:35 EET" duration-ms="217" status="PASS">
+        <test-method signature="DefaultLange()[pri:1, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:20 EET" name="DefaultLange" finished-at="2024-08-23T19:26:21 EET" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DefaultLange -->
-        <test-method signature="CheckdefaultCurrency()[pri:2, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:35 EET" name="CheckdefaultCurrency" finished-at="2024-08-21T20:21:35 EET" duration-ms="178" status="PASS">
+        <test-method signature="CheckdefaultCurrency()[pri:2, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:21 EET" name="CheckdefaultCurrency" finished-at="2024-08-23T19:26:24 EET" duration-ms="3557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckdefaultCurrency -->
-        <test-method signature="CheckContactNumber()[pri:3, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:35 EET" name="CheckContactNumber" finished-at="2024-08-21T20:21:38 EET" duration-ms="3277" status="PASS">
+        <test-method signature="CheckContactNumber()[pri:3, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:24 EET" name="CheckContactNumber" finished-at="2024-08-23T19:26:24 EET" duration-ms="92" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckContactNumber -->
-        <test-method signature="CheckQitaflogo()[pri:4, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:38 EET" name="CheckQitaflogo" finished-at="2024-08-21T20:21:38 EET" duration-ms="325" status="PASS">
+        <test-method signature="CheckQitaflogo()[pri:4, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:24 EET" name="CheckQitaflogo" finished-at="2024-08-23T19:26:25 EET" duration-ms="842" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckQitaflogo -->
-        <test-method signature="CheckHotelIsNotSelected()[pri:5, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:38 EET" name="CheckHotelIsNotSelected" finished-at="2024-08-21T20:21:38 EET" duration-ms="122" status="PASS">
+        <test-method signature="CheckHotelIsNotSelected()[pri:5, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:25 EET" name="CheckHotelIsNotSelected" finished-at="2024-08-23T19:26:26 EET" duration-ms="574" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckHotelIsNotSelected -->
-        <test-method signature="CheckDepatureDate()[pri:6, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:38 EET" name="CheckDepatureDate" finished-at="2024-08-21T20:21:39 EET" duration-ms="185" status="PASS">
+        <test-method signature="CheckDepatureDate()[pri:6, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:26 EET" name="CheckDepatureDate" finished-at="2024-08-23T19:26:26 EET" duration-ms="168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckDepatureDate -->
-        <test-method signature="Randomlang()[pri:7, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:39 EET" name="Randomlang" finished-at="2024-08-21T20:21:41 EET" duration-ms="2745" status="PASS">
+        <test-method signature="Randomlang()[pri:7, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:26 EET" name="Randomlang" finished-at="2024-08-23T19:26:29 EET" duration-ms="3636" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Randomlang -->
-        <test-method signature="FillHotelTap()[pri:8, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:41 EET" name="FillHotelTap" finished-at="2024-08-21T20:21:45 EET" duration-ms="3076" status="PASS">
+        <test-method signature="FillHotelTap()[pri:8, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:29 EET" name="FillHotelTap" finished-at="2024-08-23T19:26:33 EET" duration-ms="3887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FillHotelTap -->
-        <test-method signature="RandomlyselectTheNumberOfvistor()[pri:9, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:45 EET" name="RandomlyselectTheNumberOfvistor" finished-at="2024-08-21T20:21:56 EET" duration-ms="11001" status="PASS">
+        <test-method signature="RandomlyselectTheNumberOfvistor()[pri:9, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:33 EET" name="RandomlyselectTheNumberOfvistor" finished-at="2024-08-23T19:26:46 EET" duration-ms="12297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RandomlyselectTheNumberOfvistor -->
-        <test-method signature="CheckThePageloaded()[pri:10, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:21:56 EET" name="CheckThePageloaded" finished-at="2024-08-21T20:22:24 EET" duration-ms="28770" status="PASS">
+        <test-method signature="CheckThePageloaded()[pri:10, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:26:46 EET" name="CheckThePageloaded" finished-at="2024-08-23T19:27:12 EET" duration-ms="26000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckThePageloaded -->
-        <test-method signature="SortItem()[pri:11, instance:almosaferTestt.mytest@6326d182]" started-at="2024-08-21T20:22:24 EET" name="SortItem" finished-at="2024-08-21T20:22:28 EET" duration-ms="4156" status="PASS">
+        <test-method signature="SortItem()[pri:11, instance:almosaferTestt.mytest@35fe2125]" started-at="2024-08-23T19:27:12 EET" name="SortItem" finished-at="2024-08-23T19:27:15 EET" duration-ms="3312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SortItem -->
